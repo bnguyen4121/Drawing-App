@@ -2,8 +2,6 @@
 
 A simple drawing application built with p5.js, a JavaScript library for creative coding and visualization.
 
-![Screenshot](screenshot.png)
-
 ## Features
 
 - **Freehand Drawing**: Draw freely on the canvas using your mouse or touch input.
